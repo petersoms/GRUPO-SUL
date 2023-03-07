@@ -1,0 +1,105 @@
+
+.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1728px;
+	height:1117px;
+	position:absolute;
+}
+.e21_3 { 
+	background-color:rgba(76.50000303983688, 76.32149621844292, 72.03749969601631, 1);
+	width:2000px;
+	height:1117px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e17_5 { 
+	transform: rotate(-4.96961728221122e-17deg);
+	background-color:rgba(28.68749924004078, 26.774999164044857, 26.774999164044857, 1);
+	width: 2000px;
+	height:671.2500610351562px;
+	position:absolute;
+	left:-2px;
+	top:446px;
+}
+.e3_7 { 
+	width:130px;
+	height:130px;
+	position:absolute;
+	left:922px;
+	top:336px;
+	background-image:url(imagens/bussola_removebg_preview__2__2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e8_2 { 
+	background-color:rgba(53.1249987334013, 50.02604082226753, 50.02604082226753, 1);
+	width:248px;
+	height:56px;
+	position:absolute;
+	left:1065px;
+	top:917px;
+}
+.e8_3 { 
+	background-color:rgba(53.1249987334013, 50.02604082226753, 50.02604082226753, 1);
+	width:248px;
+	height:56px;
+	position:absolute;
+	left:356px;
+	top:917px;
+}
+.e2_4 { 
+	color:rgba(0, 0, 0, 1);
+	width:326px;
+	height:332px;
+	position:absolute;
+	left:735px;
+	top:302px;
+	font-family:Chakra Petch;
+	text-align:left;
+	font-size:128px;
+	letter-spacing:0;
+}
+.e7_10 { 
+	color:rgba(215.0000023841858, 173.00000488758087, 31.000000052154064, 1);
+	width:213px;
+	height:42px;
+	position:absolute;
+	left:374px;
+	top:924px;
+	font-family:Chakra Petch;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e7_8 { 
+	color:rgba(215.0000023841858, 173.00000488758087, 31.000000052154064, 1);
+	width:262px;
+	height:42px;
+	position:absolute;
+	left:1058px;
+	top:921px;
+	font-family:Chakra Petch;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+button{
+
+  background: none;
+  border: 0;
+  position: relative;
+}
+button:after {
+  content: '';
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background: #353232;
+ position: absolute;
+ top: -50%;
+ left: -10px;
+ opacity: 0.3;
+ z-index: 1;
+}
+
